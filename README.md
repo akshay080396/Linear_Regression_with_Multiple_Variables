@@ -1,4 +1,4 @@
-# Multiple Linear Regression for Predictive Analysis
+# Multiple Variable Linear Regression for Predictive Analysis
 
 This repository contains an implementation of a multiple linear regression model for predictive analysis. The model explores the relationship between multiple independent variables and a dependent variable, aiming to predict outcomes based on given input features.
 
